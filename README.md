@@ -71,3 +71,5 @@ En la muestra de validación se identificaron **65 colaboradores activos en ries
 * **Python (Google Colab / Jupyter):** Pandas, NumPy, Scikit-Learn, SHAP, Matplotlib, Seaborn.
 * **Tableau Public:** Tablero interactivo con arquitectura responsiva (versión escritorio y móvil sincronizadas).
 * **Canva:** Diseño visual y arquitectura de interfaz de reportes ejecutivos.
+
+* * **Nota Académica:** Este proyecto constituye el trabajo final de consolidación práctica para el *Google Advanced Data Analytics Professional Certificate*, aplicando modelamiento predictivo en Python, evaluación de métricas de negocio y visualización ejecutiva en Tableau
