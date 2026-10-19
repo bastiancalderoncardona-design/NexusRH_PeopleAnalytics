@@ -74,4 +74,4 @@ En la muestra de validación se identificaron **65 colaboradores activos en ries
 
 
 ---
-* **Nota Académica:** Este proyecto constituye el trabajo final de consolidación práctica para el *Google Advanced Data Analytics Professional Certificate*, aplicando modelamiento predictivo en Python, evaluación de métricas de negocio y visualización ejecutiva en Tableau
+**Nota Académica:** Este proyecto constituye el trabajo final de consolidación práctica para el *Google Advanced Data Analytics Professional Certificate*, aplicando modelamiento predictivo en Python, evaluación de métricas de negocio y visualización ejecutiva en Tableau
